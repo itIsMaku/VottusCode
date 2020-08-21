@@ -8,6 +8,7 @@
 
 - Node.js
 	- Express.js, Fastify
+	- Rest API & GraphQL (**new**)
 	- TypeScript
 
 ### Frontend
