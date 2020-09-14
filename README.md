@@ -7,7 +7,7 @@
 ### Backend
 
 - Node.js
-	- Express.js, Fastify
+	- Fastify.js (Express for older projects)
 	- Rest API & GraphQL (**new**)
 	- TypeScript
 
@@ -17,7 +17,9 @@
 	- TypeScript
 	
 
-I work with Vue.js for frontend and Express.js backend.<br/>
+I work with Vue.js for frontend and Fastify.js backend.<br/>
 Love to hate React.
+
+If you find any Express code, rest assured, it will be rewritten to Fastify soon.
 
 My code isn't messy, it's just safe.
