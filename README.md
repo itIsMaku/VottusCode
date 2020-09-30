@@ -1,7 +1,5 @@
 # VottusCode
 
-Prejvi, this is indeed my GitHub.
-
 #### Hey There, I'm **Vottus**!
 
 :balloon: Prague, Czech Republic
