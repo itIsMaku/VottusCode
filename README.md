@@ -7,15 +7,18 @@
 ### Backend
 
 - Node.js
-  - Fastify.js (Express for older projects)
-  - Rest API & GraphQL (**new**)
+  - Frameworks: Fastify.js, Express for older projects)
+    - Rest API & GraphQL (**new**)
+  - Testing: Tap
+  - Others: Typegoose, MikroORM, Oclif 
   - TypeScript
 - PHP
   - Frameworks: Nette, Laravel
-  - Testing: PHPStand
+  - Testing: PHPStan
   - Others: Doctrine, Symfony Console
 - Java
-  - Spring
+  - Frameworks: Spring
+  - Kotlin
 
 ### Frontend
 - Vue (& Nuxt)
