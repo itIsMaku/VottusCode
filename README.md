@@ -1,25 +1,28 @@
 # VottusCode
 
-#### Hey There, I'm **Vottus**!
+#### Hello there, I'm **Vottus**!
 
 :balloon: Prague, Czech Republic
 
 ### Backend
 
 - Node.js
-	- Fastify.js (Express for older projects)
-	- Rest API & GraphQL (**new**)
-	- TypeScript
+  - Fastify.js (Express for older projects)
+  - Rest API & GraphQL (**new**)
+  - TypeScript
+- PHP
+  - Frameworks: Nette, Laravel
+  - Testing: PHPStand
+  - Others: Doctrine, Symfony Console
+- Java
+  - Spring
 
 ### Frontend
-- Vue.js (& Nuxt.js)
-	- Vuex, Router
-	- TypeScript
-	
+- Vue (& Nuxt)
+- React (learning)
 
-I work with Vue.js for frontend and Fastify.js backend.<br/>
-Love to hate React.
+# Databases
+- MySQL
+- MongoDB
 
-If you find any Express code, rest assured, it will be rewritten to Fastify soon.
-
-My code isn't messy, it's just safe.
+My current favorite stack is Node.js, Fastify, Vue.js & MongoDB
