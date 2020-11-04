@@ -21,7 +21,7 @@
 - Vue (& Nuxt)
 - React (learning)
 
-# Databases
+### Databases
 - MySQL
 - MongoDB
 
