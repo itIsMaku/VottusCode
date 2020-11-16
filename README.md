@@ -14,7 +14,7 @@
   - TypeScript
 - PHP
   - Frameworks: Nette, Laravel
-  - Testing: PHPStan
+  - Testing: PHPUnit, PHPStan
   - Others: Doctrine, Symfony Console
 - Java
   - Frameworks: Spring
