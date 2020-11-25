@@ -32,4 +32,9 @@
 - PostgreSQL
 - MongoDB
 
+# Other
+- Git
+- Bash
+- Docker
+
 My current favorite stack is Node.js, Fastify, Vue.js & MongoDB
