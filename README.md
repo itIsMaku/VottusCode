@@ -15,15 +15,16 @@
   - Testing:
     - Tap
     - Mocha    
-  - Mobile Development:
-    - React Native
 - PHP
   - Frameworks: Nette, Laravel
   - Testing: PHPUnit, PHPStan
   - Others: Doctrine, Symfony Console
+  - Learning: Symfony
 - Java
   - Frameworks: Spring
-  - Kotlin + Kotlin Native
+- Kotlin
+  - Frameworks: Ktor
+  - Kotlin Native
 - Flutter
     
 ### Databases
