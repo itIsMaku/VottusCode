@@ -1,40 +1,40 @@
 # VottusCode
 
-:balloon: Prague, Czech Republic
+Software Engineer from Prague.
 
-- JavaScript
-  - TypeScript
+![](https://github-readme-stats.vercel.app/api?username=VottusCode&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VottusCode&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
+
+Hello, I am Filip Vottus, a fullstack web developer. I am proeficient in JavaScript And TypeScript, PHP and Java, currently learning Rust. I occasionally use Kotlin and Flutter.
+
+## Skills
+
+**bold** skills are my preffered and mostly used technologies.
+
+- **JavaScript + TypeScript**
   - Frontend: 
-    - Vue + Nuxt.js
-    - React
+    - **Vue.js + Nuxt.js**
+    - React + Next.js, Gatsby
   - Backend:
-    - Node.js
-    - Express, Fastify
-    - TypeORM, MikroORM, Typegoose
-    - Oclif
+    - **Node.js** (learning Deno)
+    - Web Frameworks: **Fastify + Fasteer.js**, Express
+    - Database ORMs: **Prisma**, TypeORM, MikroORM, Typegoose
   - Testing:
-    - Tap
-    - Mocha    
+    - Unit Testing: **Tap**, Mocha
+    - E2E: Cypress
 - PHP
-  - Frameworks: Nette, Laravel
+  - Frameworks: **Nette**, Laravel
   - Testing: PHPUnit, PHPStan
-  - Others: Doctrine, Symfony Console
-  - Learning: Symfony
-- Java
-  - Frameworks: Spring
+  - Database ORMs: **Doctrine**, Laravel Eloquent
+- Java (legacy projects only)
 - Kotlin
-  - Frameworks: Ktor
-  - Kotlin Native
 - Flutter
     
 ### Databases
 - MySQL
-- PostgreSQL
+- **PostgreSQL**
 - MongoDB
 
-# Other
+### Other
 - Git
-- Bash
 - Docker
-
-My current favorite stack is Node.js, Fastify, Vue.js & MongoDB
