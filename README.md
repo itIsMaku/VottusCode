@@ -5,7 +5,7 @@ Software Engineer from Prague.
 ![](https://github-readme-stats.vercel.app/api?username=VottusCode&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VottusCode&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
 
-Hello, I am Filip Vottus, a fullstack web developer. I am proeficient in JavaScript And TypeScript, PHP and Java, currently learning Rust. I occasionally use Kotlin and Flutter.
+Hello, I am Filip Vottus, a fullstack web developer. I am proficient in JavaScript And TypeScript, PHP and Java, currently learning Rust. I occasionally use Kotlin and Flutter.
 
 ## Skills
 
