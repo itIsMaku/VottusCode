@@ -26,7 +26,7 @@ Hello, I am Filip Vottus, a fullstack web developer. I am proficient in JavaScri
   - Frameworks: **Nette**, Laravel
   - Testing: PHPUnit, PHPStan
   - Database ORMs: **Doctrine**, Laravel Eloquent
-- Java (legacy projects only)
+- Java (matherion only)
 - Kotlin
 - Flutter
     
